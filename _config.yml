@@ -24,6 +24,7 @@ github_username:  alinedmelo
 
 # Build settings
 markdown: kramdown
+permalink: /:title
 theme: minima
 plugins:
   - jekyll-feed
